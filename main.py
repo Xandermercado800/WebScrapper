@@ -31,9 +31,9 @@ from utils import OPTIONS, START_BUTTON, START_TEXT
 
 load_dotenv()
 
-bot_token = os.getenv("BOT_TOKEN")
-api_id = os.getenv("API_ID")
-api_hash = os.getenv("API_HASH")
+bot_token = os.getenv("7204107077:AAFDm9arLBP4tunGf6rco8x2dNg74Fe5LWY")
+api_id = os.getenv("25813037")
+api_hash = os.getenv("554650be402964eb375e8269aff1db16")
 
 CRAWL_LOG_CHANNEL = os.getenv('CRAWL_LOG_CHANNEL')
 
